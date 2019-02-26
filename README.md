@@ -17,4 +17,5 @@ Utilização
 ==========
 
 service service_name status/stop/start/restart
+
 systemctl status/stop/start/restart service_name
